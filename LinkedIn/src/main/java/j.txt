@@ -1,0 +1,30 @@
+{
+    "id" : "32c307cc-9f76-4ab9-aff7-9be96fad55a6",
+    "email" : "Axror",
+    "firstName" : "Farrux",
+    "lastName" : "Habibjonov",
+    "birthDate" : "1997-01-14",
+    "about" : "aaa",
+    "avatar" : {
+        "id" : "2a52352a-d7c8-486c-a65c-0c0e7727138d",
+        "byte" : ["\\x313231323132"],
+        "size" : 128},
+        "region" : {
+            "id" : "3ccff0f5-abd4-4a6e-9a93-159fc2ffb416",
+            "name" : "Tashkent",
+            "createdDate" : "2022-01-15",
+            "country" : {
+                "id":"c671ae10-182f-4630-b230-fd5b3ecb977c",
+                "name":"A",
+                "created_date":"2022-01-14"
+            }
+        },
+    "education" : [
+        {"id":"f4fa7ea6-2ef5-4181-97e5-d2eb88458888",
+        "name":"TATU",
+        "region_id":"3ccff0f5-abd4-4a6e-9a93-159fc2ffb416",
+        "description":"aaaa",
+        "linkedin_url":"bbbb",
+        "created_date":"2022-01-15"},
+    ]
+}
